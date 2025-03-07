@@ -1,0 +1,11 @@
+## Ignore files compiled from TypeScript
+
+## JS
+index.d.ts
+index.d.ts.map
+index.js
+
+## Stories
+*.stories.d.ts
+*.stories.d.ts.map
+*.stories.js

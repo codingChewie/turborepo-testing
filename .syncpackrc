@@ -1,0 +1,25 @@
+{
+  "versionGroups": [
+    {
+      "label": "TypeScript Version",
+      "dependencies": [
+        "typescript"
+      ],
+      "pinVersion": "5.5.4"
+    },
+    {
+      "label": "Next Version",
+      "dependencies": [
+        "next"
+      ],
+      "pinVersion": "15.1.3"
+    },
+    {
+      "label": "TailwindCSS Version",
+      "dependencies": [
+        "tailwindcss"
+      ],
+      "pinVersion": "3.4.1"
+    }
+  ]
+}
