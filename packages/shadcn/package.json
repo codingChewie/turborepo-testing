@@ -14,7 +14,8 @@
     "dist"
   ],
   "exports": {
-    "./*": "./src/**/*.tsx"
+    "./button": "./src/button.tsx",
+    "./carousel": "./src/carousel.tsx"
   },
   "dependencies": {
     "@repo/utils": "workspace:*",

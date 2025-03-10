@@ -8,7 +8,7 @@ import {ArrowLeft, ArrowRight} from 'lucide-react'
 import {cn} from '@repo/utils/tailwind'
 
 // Components
-import {Button} from './button.js'
+import {Button} from './button'
 // import {Button} from '@shadcn/button'
 
 type CarouselApi = UseEmblaCarouselType[1]
